@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "#X ",
+    " #X"
+  ],
+  "result": {
+    "item": "skyresourcesreborn:diamond_cutting_knife"
+  },
+  "show_notification": true
+}

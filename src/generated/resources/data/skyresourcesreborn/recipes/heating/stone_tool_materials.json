@@ -1,0 +1,11 @@
+{
+  "type": "skyresourcesreborn:heating",
+  "ingredient": {
+    "tag": "minecraft:stone_tool_materials"
+  },
+  "processing_time": 20,
+  "result": {
+    "amount": 1000,
+    "fluid": "minecraft:lava"
+  }
+}

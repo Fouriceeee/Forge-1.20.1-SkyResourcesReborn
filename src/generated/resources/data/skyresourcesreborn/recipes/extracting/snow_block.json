@@ -1,0 +1,13 @@
+{
+  "type": "skyresourcesreborn:extracting",
+  "block": {
+    "item": "minecraft:snow_block"
+  },
+  "fluid": {
+    "amount": 50,
+    "fluid": "minecraft:water"
+  },
+  "result_block": {
+    "item": "minecraft:air"
+  }
+}

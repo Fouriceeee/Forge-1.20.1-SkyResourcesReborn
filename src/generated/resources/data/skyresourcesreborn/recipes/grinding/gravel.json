@@ -1,0 +1,15 @@
+{
+  "type": "skyresourcesreborn:grinding",
+  "block": {
+    "item": "minecraft:gravel"
+  },
+  "outputs": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:flint",
+      "multiplier": 0.3
+    }
+  ]
+}

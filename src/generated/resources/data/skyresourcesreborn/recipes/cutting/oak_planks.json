@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "tag": "minecraft:oak_logs"
+  },
+  "output": {
+    "count": 6,
+    "item": "minecraft:oak_planks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "tag": "minecraft:bamboo_blocks"
+  },
+  "output": {
+    "count": 6,
+    "item": "minecraft:bamboo_planks"
+  }
+}

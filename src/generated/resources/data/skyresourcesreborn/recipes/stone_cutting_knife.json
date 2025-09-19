@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "#X ",
+    " #X"
+  ],
+  "result": {
+    "item": "skyresourcesreborn:stone_cutting_knife"
+  },
+  "show_notification": true
+}

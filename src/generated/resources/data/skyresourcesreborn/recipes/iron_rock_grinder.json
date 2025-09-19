@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "#  ",
+    " # ",
+    "  X"
+  ],
+  "result": {
+    "item": "skyresourcesreborn:iron_rock_grinder"
+  },
+  "show_notification": true
+}

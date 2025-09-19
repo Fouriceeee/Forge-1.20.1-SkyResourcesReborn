@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "item": "minecraft:cactus"
+  },
+  "output": {
+    "count": 2,
+    "item": "skyresourcesreborn:cactus_fruit"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "tag": "minecraft:planks"
+  },
+  "output": {
+    "count": 6,
+    "item": "minecraft:stick"
+  }
+}

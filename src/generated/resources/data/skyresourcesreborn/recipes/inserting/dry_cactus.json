@@ -1,0 +1,13 @@
+{
+  "type": "skyresourcesreborn:inserting",
+  "fluid": {
+    "amount": 1200,
+    "fluid": "minecraft:water"
+  },
+  "input_block": {
+    "item": "skyresourcesreborn:dry_cactus"
+  },
+  "result_block": {
+    "item": "minecraft:cactus"
+  }
+}

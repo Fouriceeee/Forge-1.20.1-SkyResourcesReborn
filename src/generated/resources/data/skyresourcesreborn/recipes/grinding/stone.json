@@ -1,0 +1,24 @@
+{
+  "type": "skyresourcesreborn:grinding",
+  "block": {
+    "item": "minecraft:stone"
+  },
+  "outputs": [
+    {
+      "item": "skyresourcesreborn:crushed_stone",
+      "multiplier": 0.44
+    },
+    {
+      "item": "minecraft:diamond",
+      "multiplier": 0.033
+    },
+    {
+      "item": "minecraft:emerald",
+      "multiplier": 0.015
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "multiplier": 0.54
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "tag": "minecraft:birch_logs"
+  },
+  "output": {
+    "count": 6,
+    "item": "minecraft:birch_planks"
+  }
+}

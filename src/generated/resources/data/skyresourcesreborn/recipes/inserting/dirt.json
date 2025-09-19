@@ -1,0 +1,13 @@
+{
+  "type": "skyresourcesreborn:inserting",
+  "fluid": {
+    "amount": 200,
+    "fluid": "minecraft:water"
+  },
+  "input_block": {
+    "item": "minecraft:dirt"
+  },
+  "result_block": {
+    "item": "minecraft:clay"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "skyresourcesreborn:grinding",
+  "block": {
+    "item": "minecraft:cobblestone"
+  },
+  "outputs": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ]
+}

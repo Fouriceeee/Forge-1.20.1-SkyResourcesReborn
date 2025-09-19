@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "skyresourcesreborn:item/stone_rock_grinder"
+  }
+}

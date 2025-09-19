@@ -1,0 +1,11 @@
+{
+  "type": "skyresourcesreborn:grinding",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "tag": "skyresourcesreborn:rock_grinder"
+      }
+    }
+  ]
+}

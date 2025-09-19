@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "skyresourcesreborn:item/cactus_cutting_knife"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "tag": "minecraft:acacia_logs"
+  },
+  "output": {
+    "count": 6,
+    "item": "minecraft:acacia_planks"
+  }
+}

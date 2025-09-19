@@ -1,0 +1,13 @@
+{
+  "type": "skyresourcesreborn:extracting",
+  "block": {
+    "tag": "minecraft:leaves"
+  },
+  "fluid": {
+    "amount": 20,
+    "fluid": "minecraft:water"
+  },
+  "result_block": {
+    "item": "minecraft:air"
+  }
+}

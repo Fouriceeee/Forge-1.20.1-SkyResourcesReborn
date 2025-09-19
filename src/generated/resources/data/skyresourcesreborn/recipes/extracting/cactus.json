@@ -1,0 +1,13 @@
+{
+  "type": "skyresourcesreborn:extracting",
+  "block": {
+    "item": "minecraft:cactus"
+  },
+  "fluid": {
+    "amount": 50,
+    "fluid": "minecraft:water"
+  },
+  "result_block": {
+    "item": "skyresourcesreborn:dry_cactus"
+  }
+}

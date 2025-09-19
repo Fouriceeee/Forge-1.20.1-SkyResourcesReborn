@@ -1,0 +1,12 @@
+{
+  "type": "skyresourcesreborn:grinding",
+  "block": {
+    "tag": "minecraft:logs"
+  },
+  "outputs": [
+    {
+      "item": "skyresourcesreborn:sawdust",
+      "multiplier": 1.5
+    }
+  ]
+}

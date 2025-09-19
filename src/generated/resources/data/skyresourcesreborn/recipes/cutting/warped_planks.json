@@ -1,0 +1,10 @@
+{
+  "type": "skyresourcesreborn:cutting",
+  "block": {
+    "tag": "minecraft:warped_stems"
+  },
+  "output": {
+    "count": 6,
+    "item": "minecraft:warped_planks"
+  }
+}

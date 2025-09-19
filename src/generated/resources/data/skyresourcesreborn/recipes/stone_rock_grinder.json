@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "#  ",
+    " # ",
+    "  X"
+  ],
+  "result": {
+    "item": "skyresourcesreborn:stone_rock_grinder"
+  },
+  "show_notification": true
+}
