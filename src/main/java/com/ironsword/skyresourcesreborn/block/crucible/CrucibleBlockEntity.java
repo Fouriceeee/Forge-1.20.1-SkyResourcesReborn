@@ -100,7 +100,7 @@ public class CrucibleBlockEntity extends BlockEntity implements IHeatableBlock{
     }
 
     public void tick(Level pLevel, BlockPos pPos, BlockState pState) {
-        heatLevel = getHeatLevel(pLevel,pPos);
+        heatLevel = getHeatLevel(pLevel,pPos.below());
 
         if (itemHandler.getStackInSlot(0).isEmpty()) return;
 

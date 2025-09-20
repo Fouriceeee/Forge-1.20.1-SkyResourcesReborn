@@ -3,7 +3,7 @@
   "ingredient": {
     "tag": "minecraft:stone_tool_materials"
   },
-  "processing_time": 20,
+  "processing_time": 100,
   "result": {
     "amount": 1000,
     "fluid": "minecraft:lava"

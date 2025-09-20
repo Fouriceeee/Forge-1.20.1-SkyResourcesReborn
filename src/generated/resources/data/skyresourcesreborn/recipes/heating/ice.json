@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "minecraft:ice"
   },
-  "processing_time": 20,
+  "processing_time": 200,
   "result": {
     "amount": 1000,
     "fluid": "minecraft:water"

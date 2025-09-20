@@ -37,6 +37,7 @@ public class SkyResourcesReborn
         ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);
         ModEntities.ENTITY_TYPES.register(modEventBus);
 
+        SRRFluids.FLUID_TYPES.register(modEventBus);
         SRRFluids.FLUIDS.register(modEventBus);
 
         ModCreativeTabs.CREATIVE_TABS.register(modEventBus);

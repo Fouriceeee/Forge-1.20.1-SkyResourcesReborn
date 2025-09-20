@@ -24,7 +24,7 @@ public class BlazePowderBlock extends Block implements IHeatableBlock {
     public void randomTick(BlockState pState, ServerLevel pLevel, BlockPos pPos, RandomSource pRandom) {
         if (pLevel.isClientSide) return;
 
-        float chance = (float) getHeatLevel2(pLevel, pPos) /10;
+        float chance = (float) getHeatLevel(pLevel, pPos.below()) /10;
 
         if (pLevel.getRandom().nextFloat() <= chance) {
             pLevel.setBlockAndUpdate(pPos,Blocks.LAVA.defaultBlockState());
